@@ -5,7 +5,7 @@
   (by)
   Peter K. Pearson
   (in)
-  Communicationsof the ACM, June 1990, Volume 33, Number 6, pp. 677-680
+  Communications of the ACM, June 1990, Volume 33, Number 6, pp. 677-680
                              
   http://cs.mwsu.edu/~griffin/courses/2133/downloads/Spring11/p677-pearson.pdf
 */
